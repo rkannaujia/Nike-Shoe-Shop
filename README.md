@@ -1,7 +1,7 @@
 # Nike-Shoe-Shop
 
 ### hosted project link=> 
-rk-nike-shoes-shop.netlify.app
+https://rk-nike-shoes-shop.netlify.app/
 
 ## third party link uses for this project
 ### google font=>
