@@ -5,7 +5,8 @@ rk-nike-shoes-shop.netlify.app
 
 ## third party link uses for this project
 ### google font=>
-href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+ <link
+    href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
     rel="stylesheet">
 ### for polygon 
 https://bennettfeely.com/clippy/
@@ -15,6 +16,8 @@ clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
 https://cssgenerator.org/box-shadow-css-generator.html
 
 #images of the project
+
+
 ###navbar and fornt page
 ![image](https://user-images.githubusercontent.com/68031934/164539235-74639f82-ed9c-46d2-ae1e-77687a28b32b.png)
 ###navbar and fornt page2
